@@ -5,7 +5,7 @@
     "preact": "^8.5.2"
   },
   "devDependencies": {
-    "poi": "^12.7.2"
+    "poi": "^12.7.5"
   },
   "babel": {
     "presets": [
