@@ -2,7 +2,7 @@
   "license": "MIT",
   "productName": "Preact + Poi Template",
   "dependencies": {
-    "preact": "^10.4.6"
+    "preact": "^10.4.7"
   },
   "devDependencies": {
     "poi": "^12.9.0"
