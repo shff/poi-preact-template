@@ -1,0 +1,13 @@
+name: Node
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - run: yarn
+    - run: yarn build
+    - run: yarn e2e
