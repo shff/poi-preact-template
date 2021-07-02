@@ -6,7 +6,7 @@
     "e2e": "cypress run -C false --config video=false,integrationFolder=.,supportFile=false,pluginsFile=false,testFiles=*.spec.js"
   },
   "dependencies": {
-    "preact": "^10.5.13"
+    "preact": "^10.5.14"
   },
   "devDependencies": {
     "cypress": "^7.2.0",
