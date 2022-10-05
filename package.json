@@ -9,7 +9,7 @@
     "preact": "^10.11.1"
   },
   "devDependencies": {
-    "cypress": "^9.7.0",
+    "cypress": "^10.9.0",
     "poi": "^12.10.3"
   },
   "babel": {
